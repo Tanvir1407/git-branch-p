@@ -1,5 +1,7 @@
 .img-size{
     width: 460px;
     height: 360px;
-    border-radius: 50%;
+    border-radius: 50%;}
+h1 .t-head{
+    color :brown;
 }
